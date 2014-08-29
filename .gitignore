@@ -26,3 +26,15 @@
 
 # Vim Swap Files
 *.swp
+
+# Visual Studio Project Files
+Debug/
+ipch/
+Release/
+*.suo
+*.opensdf
+*.sdf
+*.sln
+*.vcxproj
+*.filters
+*.user
